@@ -26,6 +26,5 @@
 	• git pull;
 	• другие операции.
 5. Использование внешних сервисов (github).
-
+sdfghjkl
 qwert
-ghjk
