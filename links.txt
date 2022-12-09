@@ -1,0 +1,2 @@
+https://git-scm.com/
+https://www.atlassian.com/ru/git/tutorials
